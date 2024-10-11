@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landak88.github.io/beritaku/sitemap.xml
